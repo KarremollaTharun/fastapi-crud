@@ -23,7 +23,7 @@ while True:
         print("database connection successful")
         break
     except Exception as e:
-        print('connection fail print')
+        print('connection fail ')
         print('error',e)
         time.sleep(2)
 
