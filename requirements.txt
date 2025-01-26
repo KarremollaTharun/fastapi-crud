@@ -1,0 +1,4 @@
+Python 3.12.5
+FastAPI CLI version: 0.0.7
+sqlalchemy
+psycopg2
